@@ -126,10 +126,10 @@ courses.json
 
 This scraper meets all assignment requirements:
 
-* ✔ Official-source-only data
-* ✔ Exactly 5 unique courses
-* ✔ Structured output
-* ✔ Robust and reliable execution
+*  Official-source-only data
+*  Exactly 5 unique courses
+*  Structured output
+*  Robust and reliable execution
 
 ---
 
